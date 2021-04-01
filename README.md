@@ -1,2 +1,2 @@
 # sheet-music
-Sheet music by timcitizen
+It's Lilypond time! https://www.hacklily.org.
